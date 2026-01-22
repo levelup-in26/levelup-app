@@ -99,7 +99,7 @@ button:hover {
 /* Back Button (centred, moved up, no arrow) */
 .back-btn {
   position: absolute;
-  bottom: 70px;
+  top: 70px;
   left: 50%;
   transform: translateX(-50%);
   padding: 0.7rem 1.8rem;
